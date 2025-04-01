@@ -41,6 +41,7 @@ body {
     color: white;
 }
 .Ftop {
+    margin-top: 10px;
     height: 650px;
     background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
     background-size: 100%;
@@ -51,3 +52,41 @@ body {
 text-shadow: #020819 8px -20px 9px;
 }
 }
+.Dark-background {
+    background-color: rgb(25, 33, 41);
+    Color: white;
+}
+#general-information p {
+    font-size: 2em;
+    font-weight: 100;
+    text-align: center;
+}
+.btn1 { 
+        background-color: rgb(67, 163, 230);
+        color: white;
+        font-size: 2em;
+        font-family: "Reboto", sans-serif;
+        letter-spacing: 0.5px;
+        text-align: center;
+        text-decoration: none;
+    }
+#Structure {
+    background-color: rgb(220, 238, 232);
+}
+.service-box {
+    font-size: 1.7em;
+    text-align: center;
+}
+.section-text {
+    font-size: 1.9em;
+    text-align: center;
+}
+.member-name { 
+    font-size: 1.5em;
+    font-weight: 700;
+    }
+    .img { 
+        width: 200px;
+        height: 180px;
+    }
+ 
