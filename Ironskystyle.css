@@ -33,9 +33,21 @@ body {
     font-size: 1.2em;
     line-height: 1em;
 }
-.nav-bar{
-    width: 400px;
-    height: 120px;
-    background-color: grey;
-    color: blue;
+.nav-bar {
+    height: 100px;
+    background-color: rgb(25, 33, 41)
+}
+.nav-bar a {
+    color: white;
+}
+.Ftop {
+    height: 650px;
+    background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
+    background-size: 100%;
+    position: 0 0;
+    background-repeat: no-repeat;
+.h2 {
+    color: white;
+text-shadow: #020819 8px -20px 9px;
+}
 }
