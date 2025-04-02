@@ -32,6 +32,7 @@ body {
 .h5 { 
     font-size: 1.2em;
     line-height: 1em;
+    text-align: center;
 }
 .nav-bar {
     height: 100px;
@@ -89,4 +90,14 @@ text-shadow: #020819 8px -20px 9px;
         width: 200px;
         height: 180px;
     }
- 
+    .address { 
+        font-style: normal;
+        font-size: 0.8em;
+        text-align: center;
+    }
+    .footer {
+        text-align: center;
+    }
+   .alling { 
+    text-align: center;
+   }
