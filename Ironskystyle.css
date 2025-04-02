@@ -101,3 +101,10 @@ text-shadow: #020819 8px -20px 9px;
    .alling { 
     text-align: center;
    }
+   .table1{
+    color: white;
+    background-color: rgb(25, 33, 41);
+    text-align: center;
+    font-size: 3em;
+    line-height: 2em;
+ }
